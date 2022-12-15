@@ -1,0 +1,11 @@
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\Metotlar_odev_4\Metotlar_odev_4\bin\Debug\Metotlar_odev_4.exe.config
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\Metotlar_odev_4\Metotlar_odev_4\bin\Debug\Metotlar_odev_4.exe
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\Metotlar_odev_4\Metotlar_odev_4\bin\Debug\Metotlar_odev_4.pdb
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\Metotlar_odev_4\Metotlar_odev_4\obj\Debug\Metotlar_odev_4.csproj.AssemblyReference.cache
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\Metotlar_odev_4\Metotlar_odev_4\obj\Debug\Metotlar_odev_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\Metotlar_odev_4\Metotlar_odev_4\obj\Debug\Metotlar_odev_4.Form1.resources
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\Metotlar_odev_4\Metotlar_odev_4\obj\Debug\Metotlar_odev_4.Properties.Resources.resources
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\Metotlar_odev_4\Metotlar_odev_4\obj\Debug\Metotlar_odev_4.csproj.GenerateResource.cache
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\Metotlar_odev_4\Metotlar_odev_4\obj\Debug\Metotlar_odev_4.csproj.CoreCompileInputs.cache
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\Metotlar_odev_4\Metotlar_odev_4\obj\Debug\Metotlar_odev_4.exe
+C:\Users\melzl\OneDrive\Masaüstü\UDEMY PROJELER\Metotlar_odev_4\Metotlar_odev_4\obj\Debug\Metotlar_odev_4.pdb
